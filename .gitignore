@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 node_modules
 .env
+=======
+.env
+node_modules
+>>>>>>> 0c51c22 (Initial commit)
